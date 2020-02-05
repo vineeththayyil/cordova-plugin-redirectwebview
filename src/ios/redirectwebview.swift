@@ -7,7 +7,7 @@
 
 import Foundation
 
-@objc(YourPluginName) class native-wkwebview : CDVPlugin {
+@objc(YourPluginName) class redirectwebview : CDVPlugin {
   @objc(yourFunctionName:) // Declare your function name.
   func callNativeFunction(command: CDVInvokedUrlCommand) { // write the function code.
     /*
