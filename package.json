@@ -1,0 +1,18 @@
+{
+  "name": "redirectwebview", 
+  "version": "0.0.1", 
+  "description": "Your Plugin Description",
+  "cordova": {
+    "id": "cordova-plugin-redirectwebview", 
+    "platforms": [ 
+      "ios" 
+    ]
+  },
+  "keywords": [ 
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Attinad", 
+  "license": "MIT"
+}
